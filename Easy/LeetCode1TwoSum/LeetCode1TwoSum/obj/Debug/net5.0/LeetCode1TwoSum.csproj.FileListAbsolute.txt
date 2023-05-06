@@ -1,0 +1,16 @@
+C:\Dev\LeetCodeProblems\Easy\LeetCode1TwoSum\LeetCode1TwoSum\bin\Debug\net5.0\LeetCode1TwoSum.exe
+C:\Dev\LeetCodeProblems\Easy\LeetCode1TwoSum\LeetCode1TwoSum\bin\Debug\net5.0\LeetCode1TwoSum.deps.json
+C:\Dev\LeetCodeProblems\Easy\LeetCode1TwoSum\LeetCode1TwoSum\bin\Debug\net5.0\LeetCode1TwoSum.runtimeconfig.json
+C:\Dev\LeetCodeProblems\Easy\LeetCode1TwoSum\LeetCode1TwoSum\bin\Debug\net5.0\LeetCode1TwoSum.runtimeconfig.dev.json
+C:\Dev\LeetCodeProblems\Easy\LeetCode1TwoSum\LeetCode1TwoSum\bin\Debug\net5.0\LeetCode1TwoSum.dll
+C:\Dev\LeetCodeProblems\Easy\LeetCode1TwoSum\LeetCode1TwoSum\bin\Debug\net5.0\ref\LeetCode1TwoSum.dll
+C:\Dev\LeetCodeProblems\Easy\LeetCode1TwoSum\LeetCode1TwoSum\bin\Debug\net5.0\LeetCode1TwoSum.pdb
+C:\Dev\LeetCodeProblems\Easy\LeetCode1TwoSum\LeetCode1TwoSum\obj\Debug\net5.0\LeetCode1TwoSum.csproj.AssemblyReference.cache
+C:\Dev\LeetCodeProblems\Easy\LeetCode1TwoSum\LeetCode1TwoSum\obj\Debug\net5.0\LeetCode1TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\LeetCodeProblems\Easy\LeetCode1TwoSum\LeetCode1TwoSum\obj\Debug\net5.0\LeetCode1TwoSum.AssemblyInfoInputs.cache
+C:\Dev\LeetCodeProblems\Easy\LeetCode1TwoSum\LeetCode1TwoSum\obj\Debug\net5.0\LeetCode1TwoSum.AssemblyInfo.cs
+C:\Dev\LeetCodeProblems\Easy\LeetCode1TwoSum\LeetCode1TwoSum\obj\Debug\net5.0\LeetCode1TwoSum.csproj.CoreCompileInputs.cache
+C:\Dev\LeetCodeProblems\Easy\LeetCode1TwoSum\LeetCode1TwoSum\obj\Debug\net5.0\LeetCode1TwoSum.dll
+C:\Dev\LeetCodeProblems\Easy\LeetCode1TwoSum\LeetCode1TwoSum\obj\Debug\net5.0\ref\LeetCode1TwoSum.dll
+C:\Dev\LeetCodeProblems\Easy\LeetCode1TwoSum\LeetCode1TwoSum\obj\Debug\net5.0\LeetCode1TwoSum.pdb
+C:\Dev\LeetCodeProblems\Easy\LeetCode1TwoSum\LeetCode1TwoSum\obj\Debug\net5.0\LeetCode1TwoSum.genruntimeconfig.cache

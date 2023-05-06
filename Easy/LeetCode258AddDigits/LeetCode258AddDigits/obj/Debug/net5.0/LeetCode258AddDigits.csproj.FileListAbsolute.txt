@@ -1,0 +1,16 @@
+C:\Users\shailenn\source\repos\LeetCode258AddDigits\LeetCode258AddDigits\bin\Debug\net5.0\LeetCode258AddDigits.exe
+C:\Users\shailenn\source\repos\LeetCode258AddDigits\LeetCode258AddDigits\bin\Debug\net5.0\LeetCode258AddDigits.deps.json
+C:\Users\shailenn\source\repos\LeetCode258AddDigits\LeetCode258AddDigits\bin\Debug\net5.0\LeetCode258AddDigits.runtimeconfig.json
+C:\Users\shailenn\source\repos\LeetCode258AddDigits\LeetCode258AddDigits\bin\Debug\net5.0\LeetCode258AddDigits.runtimeconfig.dev.json
+C:\Users\shailenn\source\repos\LeetCode258AddDigits\LeetCode258AddDigits\bin\Debug\net5.0\LeetCode258AddDigits.dll
+C:\Users\shailenn\source\repos\LeetCode258AddDigits\LeetCode258AddDigits\bin\Debug\net5.0\ref\LeetCode258AddDigits.dll
+C:\Users\shailenn\source\repos\LeetCode258AddDigits\LeetCode258AddDigits\bin\Debug\net5.0\LeetCode258AddDigits.pdb
+C:\Users\shailenn\source\repos\LeetCode258AddDigits\LeetCode258AddDigits\obj\Debug\net5.0\LeetCode258AddDigits.csproj.AssemblyReference.cache
+C:\Users\shailenn\source\repos\LeetCode258AddDigits\LeetCode258AddDigits\obj\Debug\net5.0\LeetCode258AddDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shailenn\source\repos\LeetCode258AddDigits\LeetCode258AddDigits\obj\Debug\net5.0\LeetCode258AddDigits.AssemblyInfoInputs.cache
+C:\Users\shailenn\source\repos\LeetCode258AddDigits\LeetCode258AddDigits\obj\Debug\net5.0\LeetCode258AddDigits.AssemblyInfo.cs
+C:\Users\shailenn\source\repos\LeetCode258AddDigits\LeetCode258AddDigits\obj\Debug\net5.0\LeetCode258AddDigits.csproj.CoreCompileInputs.cache
+C:\Users\shailenn\source\repos\LeetCode258AddDigits\LeetCode258AddDigits\obj\Debug\net5.0\LeetCode258AddDigits.dll
+C:\Users\shailenn\source\repos\LeetCode258AddDigits\LeetCode258AddDigits\obj\Debug\net5.0\ref\LeetCode258AddDigits.dll
+C:\Users\shailenn\source\repos\LeetCode258AddDigits\LeetCode258AddDigits\obj\Debug\net5.0\LeetCode258AddDigits.pdb
+C:\Users\shailenn\source\repos\LeetCode258AddDigits\LeetCode258AddDigits\obj\Debug\net5.0\LeetCode258AddDigits.genruntimeconfig.cache

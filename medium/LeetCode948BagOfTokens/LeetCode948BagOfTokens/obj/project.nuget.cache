@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "ohRbVUUeO6tSmrlqTUY3owcrIZffZPeKcS5rZiw7V7fMaBtIecNUHvtEOlRzqWCeVgowpph8KabTgBvB7WlD8A==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\LeetCodeProblems\\medium\\LeetCode948BagOfTokens\\LeetCode948BagOfTokens\\LeetCode948BagOfTokens.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://api.nuget.org/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nugetlib.mgsops.net/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
